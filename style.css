@@ -1,0 +1,12 @@
+#productArea {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10%;
+}
+
+.Cart {
+  color: black;
+  padding-left:10px ;
+}
